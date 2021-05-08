@@ -23,26 +23,26 @@ A csv file with complete election data was provided to me. I opened the csv file
 
   There are three counties mainly Jefferson, Denver and Arapahoe. The breakdown of votes in percentage and total votes is as follows:
 
-  **County Votes:
-  Jefferson received 10.5% of votes and it received a total of 38,855 votes.
-  Denver received 82.8% of votes and it received a total of 306,055 votes.
-  Arapahoe received 6.7% of votes and it received a total of 11,606 votes.
+  **County Votes:**
+  
+  **Jefferson** received 10.5% of votes and it received a total of 38,855 votes.<br>
+  **Denver** received 82.8% of votes and it received a total of 306,055 votes.<br>
+  **Arapahoe** received 6.7% of votes and it received a total of 11,606 votes.
 
 3. **Which county had the largest number of votes?**
 
-  The county to receive the largest number of votes is **Denver** with a total of 306,055 votes, which is 82.8% of the total votes.
+   The county to receive the largest number of votes is **Denver** with a total of 306,055 votes, which is 82.8% of the total votes.
 
 4. **Provide a breakdown of the number of votes and the percentage of the total votes each candidate received**
 
-  There were a total of 3 candidates in this election namely Charles Casper Stockham, Diana DeGette and Raymon Anthony Doane. A detailed breakdown of their votes is   as follows.
+  There were a total of 3 candidates in this election namely Charles Casper Stockham, Diana DeGette and Raymon Anthony Doane. A detailed breakdown of their votes     is as follows.
 
-  **Charles Casper Stockham** got 23% of the total votes with a total number of 85,213 votes.
-  **Diana DeGette** got 73% of the total votes with a total number of 272,892 votes and 
-  **Raymon Anthony Doane** got 3.1% of the total votes with a total number of 11,606 votes.
+   **Charles Casper Stockham** got 23% of the total votes with a total number of 85,213 votes. <br>
+   **Diana DeGette** got 73% of the total votes with a total number of 272,892 votes and <br>
+   **Raymon Anthony Doane** got 3.1% of the total votes with a total number of 11,606 votes.
 
-
-**Which candidate won the election, what was their vote count, and what was their percentage of the total votes?**
-From the above data it is clear that the undisputed winner of this election is **Diana DeGette with a total winning vote count of 272,892 and a winning percentage of 73.8%.
+5.  **Which candidate won the election, what was their vote count, and what was their percentage of the total votes?**
+   From the above data it is clear that the undisputed winner of this election is **Diana DeGette with a total winning vote count of 272,892 and a winning              percentage of 73.8%.
 
 ## Election-Audit Summary:
 
@@ -50,8 +50,8 @@ To summarize this audit, the code clearly extracted the information needed from 
 
 ** Other uses of this code.**
 
-* By changing the variable name it can be used as a versatile code for elections in other states with different counties and candidates.
-* By modifying the basic code, polling fraud can be detected, where if a voter with a Ballot ID casts more than one vote then only one vote will be counted 		   and the other votes will be ignored.
+   * By changing the variable name it can be used as a versatile code for elections in other states with different counties and candidates.
+   * By modifying the basic code, polling fraud can be detected, where if a voter with a Ballot ID casts more than one vote then only one vote will be counted 		   and the other votes will be ignored.
 
 
 
