@@ -60,17 +60,17 @@ with open(file_to_load) as election_data:
             # save the candidate results to our text file.
             txt_file.write(candidate_results)
         # Determine winning vote count, winning percentage, and candidate.
-        if (votes > winning_count) and (vote_percentage > winning_percentage):
-            winning_count = votes
-            winning_candidate = candidate_name
-            winning_percentage = vote_percentage                
-        # Print the winning candidates' results to the terminal.
-            winning_candidate_summary = (
-                f"-------------------------\n"
-                f"Winner: {winning_candidate}\n"
-                f"Winning Vote Count: {winning_count:,}\n"
-                f"Winning Percentage: {winning_percentage:.1f}%\n"
-                f"-------------------------\n")
-        print(winning_candidate_summary)
-        # Save the winning candidate's results to the text file.
-        txt_file.write(winning_candidate_summary)
+            if (votes > winning_count) and (vote_percentage > winning_percentage):
+                winning_count = votes
+                winning_candidate = candidate_name
+                winning_percentage = vote_percentage                
+            # Print the winning candidates' results to the terminal.
+                winning_candidate_summary = (
+                    f"-------------------------\n"
+                    f"\nWinner: {winning_candidate}\n"
+                    f"\nWinning Vote Count: {winning_count:,}\n"
+                    f"\nWinning Percentage: {winning_percentage:.1f}%\n"
+                    f"\n-------------------------\n")
+            print(winning_candidate_summary)
+            # Save the winning candidate's results to the text file.
+            txt_file.write(winning_candidate_summary)
