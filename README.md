@@ -16,11 +16,11 @@ A csv file with complete election data was provided to me. I opened the csv file
 
 ![Figure:12]()
 
- **How many votes were cast in this congressional election?**
+1. **How many votes were cast in this congressional election?**
 
 A total of 368,711 votes were casted in three counties namely Jefferson, Denver and Arapahoe.
 
-**Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.**
+2. **Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.**
 
 There are three counties mainly Jefferson, Denver and Arapahoe. The breakdown of votes in percentage and total votes is as follows:
 
