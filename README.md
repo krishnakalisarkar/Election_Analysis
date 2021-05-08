@@ -14,7 +14,7 @@ The purpose of this audit is to review the Colorado state county election and he
 
 A csv file with complete election data was provided to me. I opened the csv file and after reading the file, I ran some codes in python through the VS Code editor and came up to some conclusions regarding the election results. The results are as follows.
 
-![Figure:12]()
+![Figure:12](Resources/election_analysis.png)
 1. **How many votes were cast in this congressional election?**
 
    A total of **368,711 votes** were casted in three counties namely Jefferson, Denver and Arapahoe.
