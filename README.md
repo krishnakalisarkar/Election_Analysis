@@ -21,13 +21,13 @@ A csv file with complete election data was provided to me. I opened the csv file
 
 2. **Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.**
 
-  There are three counties mainly Jefferson, Denver and Arapahoe. The breakdown of votes in percentage and total votes is as follows:
+   There are three counties mainly Jefferson, Denver and Arapahoe. The breakdown of votes in percentage and total votes is as follows:
 
-  **County Votes:**
+   **County Votes:**
   
-  **Jefferson** received 10.5% of votes and it received a total of 38,855 votes.<br>
-  **Denver** received 82.8% of votes and it received a total of 306,055 votes.<br>
-  **Arapahoe** received 6.7% of votes and it received a total of 11,606 votes.
+   **Jefferson** received 10.5% of votes and it received a total of 38,855 votes.<br>
+   **Denver** received 82.8% of votes and it received a total of 306,055 votes.<br>
+   **Arapahoe** received 6.7% of votes and it received a total of 11,606 votes.
 
 3. **Which county had the largest number of votes?**
 
@@ -35,7 +35,7 @@ A csv file with complete election data was provided to me. I opened the csv file
 
 4. **Provide a breakdown of the number of votes and the percentage of the total votes each candidate received**
 
-  There were a total of 3 candidates in this election namely Charles Casper Stockham, Diana DeGette and Raymon Anthony Doane. A detailed breakdown of their votes     is as follows.
+   There were a total of 3 candidates in this election namely Charles Casper Stockham, Diana DeGette and Raymon Anthony Doane. A detailed breakdown of their votes      is as follows.
 
    **Charles Casper Stockham** got 23% of the total votes with a total number of 85,213 votes. <br>
    **Diana DeGette** got 73% of the total votes with a total number of 272,892 votes and <br>
