@@ -51,6 +51,7 @@ To summarize this audit, the code clearly extracted the information needed from 
 ** Other uses of this code.**
 
    * By changing the variable name it can be used as a versatile code for elections in other states with different counties and candidates.
+   * A code can be written to find out how many votes each candidate received from the different counties.
    * By modifying the basic code, polling fraud can be detected, where if a voter with a Ballot ID casts more than one vote then only one vote will be counted 		   and the other votes will be ignored.
 
 
