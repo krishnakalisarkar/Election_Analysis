@@ -8,7 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 #.DS_store
-.DS_store
+.DS_Store
 .Python
 build/
 develop-eggs/
